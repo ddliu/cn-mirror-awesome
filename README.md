@@ -50,6 +50,7 @@
 
 - [http://segmentfault.com/a/1190000000375848](http://segmentfault.com/a/1190000000375848)
 - [http://segmentfault.com/a/1190000000311560](http://segmentfault.com/a/1190000000311560)
+- [http://www.zhihu.com/question/20227463](http://www.zhihu.com/question/20227463)
 
 ## 许可证
 
