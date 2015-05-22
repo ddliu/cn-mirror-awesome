@@ -5,6 +5,7 @@
 - [360网站卫士](http://libs.useso.com/), 包括常用库，Google公共库及Google字体库镜像
 - [又拍云](http://jscdn.upai.com/)
 - [七牛云存储](http://www.staticfile.org/)
+- [bootcdn](http://www.bootcdn.cn/)
 - [百度](http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs)
 - [SAE](http://lib.sinaapp.com/)
 
