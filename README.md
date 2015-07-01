@@ -26,6 +26,13 @@
 - [豆瓣](http://pypi.douban.com/)
 - [V2EX](http://pypi.v2ex.com/simple/)
 
+使用方法:
+
+```
+pip install web.py -i http://pypi.douban.com/simple
+easy_install web.py -i http://pypi.douban.com/simple
+```
+
 ## Ruby: RubyGems
 
 - [淘宝](http://ruby.taobao.org/)
