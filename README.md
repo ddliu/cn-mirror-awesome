@@ -43,10 +43,9 @@ easy_install web.py -i http://pypi.douban.com/simple
 
 ## Docker
 
-- [dockerpool.com](http://dockerpool.com/)
-- [containerops.cn](https://containerops.cn/)
-- [阿里云](http://help.aliyun.com/knowledge_detail.htm?knowledgeId=5974865) （只限于阿里云内网访问）
 - [灵雀云](https://hub.alauda.cn/)
+- [dockerpool.com](http://dockerpool.com/)
+- [阿里云](http://help.aliyun.com/knowledge_detail.htm?knowledgeId=5974865) （只限于阿里云内网访问）
 
 ## Linux/Ubuntu
 
