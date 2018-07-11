@@ -29,8 +29,8 @@
 使用方法:
 
 ```
-pip install web.py -i http://pypi.douban.com/simple
-easy_install web.py -i http://pypi.douban.com/simple
+pip install web.py -i https://pypi.douban.com/simple
+easy_install web.py -i https://pypi.douban.com/simple
 ```
 
 ## Ruby: RubyGems
@@ -52,6 +52,13 @@ easy_install web.py -i http://pypi.douban.com/simple
 - [阿里云](http://mirrors.aliyun.com/)
 - [网易开源镜像站](http://mirrors.163.com/)
 - [搜狐开源镜像站](http://mirrors.sohu.com/)
+
+Ubuntu修改源例：
+
+```
+sed -i s/archive.ubuntu.com/mirrors.aliyun.com/g /etc/apt/sources.list && sed -i s/security.ubuntu.com/mirrors.aliyun.com/g /etc/apt/sources.list
+apt-get update
+```
 
 ## 参考资料
 
