@@ -52,7 +52,7 @@ easy_install web.py -i https://pypi.douban.com/simple
 ### 加速器
 
 - [daocloud](https://www.daocloud.io/mirror#accelerator-doc)
-- [阿里云](http://aliyun.com/
+- [阿里云](http://aliyun.com/)
 - [灵雀云](http://alauda.cn/)
 
 如何配置加速器：TBD
