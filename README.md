@@ -21,6 +21,12 @@
 
 - [淘宝NPM镜像](https://npm.taobao.org/)
 
+使用方法：
+
+```
+npm config set registry https://registry.npm.taobao.org
+```
+
 ## Python: PyPi
 
 - [豆瓣](http://pypi.douban.com/)
@@ -43,9 +49,25 @@ easy_install web.py -i https://pypi.douban.com/simple
 
 ## Docker
 
-- [灵雀云](https://hub.alauda.cn/)
-- [dockerpool.com](http://dockerpool.com/)
-- [阿里云](http://help.aliyun.com/knowledge_detail.htm?knowledgeId=5974865) （只限于阿里云内网访问）
+### 加速器
+
+- [daocloud](https://www.daocloud.io/mirror#accelerator-doc)
+- [阿里云](http://aliyun.com/
+- [灵雀云](http://alauda.cn/)
+
+如何配置加速器：TBD
+
+
+### 镜像仓库
+- [灵雀云 - 镜像仓库、加速器](https://hub.alauda.cn/)
+- [阿里云] (https://dev.aliyun.com/search.html)
+
+### 相关下载加速
+
+- [docker - daocloud](https://download.daocloud.io/Docker_Mirror/Docker)
+- [docker-compose - daocloud](https://download.daocloud.io/Docker_Mirror/Docker_Compose)
+- [Docker for Mac/Windows](https://download.daocloud.io/Docker_Mirror/Docker_for_Windows_Mac)
+
 
 ## Linux/Ubuntu
 
@@ -59,12 +81,6 @@ Ubuntu修改源例：
 sed -i s/archive.ubuntu.com/mirrors.aliyun.com/g /etc/apt/sources.list && sed -i s/security.ubuntu.com/mirrors.aliyun.com/g /etc/apt/sources.list
 apt-get update
 ```
-
-## 参考资料
-
-- [http://segmentfault.com/a/1190000000375848](http://segmentfault.com/a/1190000000375848)
-- [http://segmentfault.com/a/1190000000311560](http://segmentfault.com/a/1190000000311560)
-- [http://www.zhihu.com/question/20227463](http://www.zhihu.com/question/20227463)
 
 ## 许可证
 
