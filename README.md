@@ -31,12 +31,19 @@ npm config set registry https://registry.npm.taobao.org
 
 - [豆瓣](http://pypi.douban.com/)
 - [V2EX](http://pypi.v2ex.com/simple/)
+- [清华](https://pypi.tuna.tsinghua.edu.cn/simple)
 
 使用方法:
 
 ```
 pip install web.py -i https://pypi.douban.com/simple
 easy_install web.py -i https://pypi.douban.com/simple
+```
+
+或者设置为默认(>=10.0.0):
+
+```
+pip config set global.index-url https://pypi.douban.com/simple
 ```
 
 ## Ruby: RubyGems
