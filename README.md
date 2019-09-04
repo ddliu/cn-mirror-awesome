@@ -54,6 +54,16 @@ pip config set global.index-url https://pypi.douban.com/simple
 
 - [Golang TC](http://www.golangtc.com/)
 
+### Go Module
+
+- https://goproxy.cn
+
+使用方法：
+
+```
+export GOPROXY=https://goproxy.cn
+```
+
 ## Docker
 
 ### 加速器
