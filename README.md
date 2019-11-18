@@ -99,6 +99,10 @@ sed -i s/archive.ubuntu.com/mirrors.aliyun.com/g /etc/apt/sources.list && sed -i
 apt-get update
 ```
 
+## Homebrew
+
+- [USTC](https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git)
+
 ## 许可证
 
 [![知识共享许可协议](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
