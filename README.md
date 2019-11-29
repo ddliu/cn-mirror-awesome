@@ -70,7 +70,9 @@ export GOPROXY=https://goproxy.cn
 
 - [daocloud](https://www.daocloud.io/mirror#accelerator-doc)
 - [阿里云](http://aliyun.com/)
-- [灵雀云](http://alauda.cn/)
+- Azure中国 - https://dockerhub.azk8s.cn
+- 七牛云加速器 - https://reg-mirror.qiniu.com
+- 中科大 - https://docker.mirrors.ustc.edu.cn
 
 如何配置加速器：TBD
 
