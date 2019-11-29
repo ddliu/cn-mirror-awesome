@@ -99,6 +99,12 @@ sed -i s/archive.ubuntu.com/mirrors.aliyun.com/g /etc/apt/sources.list && sed -i
 apt-get update
 ```
 
+Alpine修改源例：
+
+```
+sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories
+```
+
 ## Homebrew
 
 - [USTC](https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git)
