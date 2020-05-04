@@ -57,6 +57,7 @@ pip config set global.index-url https://pypi.douban.com/simple
 ### Go Module
 
 - https://goproxy.cn
+- https://mirrors.aliyun.com/goproxy/
 
 使用方法：
 
